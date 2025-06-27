@@ -8,7 +8,7 @@ const Pricing = () => {
   const plans = [
     {
       name: "Web Development",
-      price: "₹15,999",
+      price: "₹19,999",
       description: "Professional website development",
       features: [
         "Responsive Design",
@@ -39,7 +39,7 @@ const Pricing = () => {
     },
     {
       name: "Digital Marketing",
-      price: "₹9,999",
+      price: "₹15,999",
       description: "Monthly marketing package",
       features: [
         "SEO Optimization",
@@ -56,10 +56,10 @@ const Pricing = () => {
 
   const addOnServices = [
     { name: "Influencer Marketing Campaign", price: "₹25,999" },
-    { name: "Amazon Review (Single)", price: "₹149" },
-    { name: "Flipkart Review (Single)", price: "₹129" },
-    { name: "Review Bundle (Both Platforms)", price: "₹249" },
-    { name: "Internship Training Program", price: "₹2,999" }
+    { name: "Amazon Review (Single)", price: "₹89" },
+    { name: "Flipkart Review (Single)", price: "₹79" },
+    { name: "Review Bundle (Both Platforms)", price: "₹149" },
+    { name: "Internship Training Program", price: "₹599" }
   ];
 
   return (

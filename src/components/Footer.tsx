@@ -9,10 +9,8 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">X</span>
-              </div>
-              <span className="text-xl font-bold">Xelvance</span>
+                          <img src="https://xelvance.in/images_assets/logo2"  width="150px"/>
+
             </div>
             <p className="text-gray-400 mb-4">
               Digital solutions that drive success for your business.

@@ -27,7 +27,7 @@ const Payment = () => {
 
     try {
       // TODO: Upload screenshot to storage if provided
-      let screenshotUrl = "";
+      let screenshotUrl = "https://xelvance.in/images_assets/payment_qr";
       
       const response = await fetch('/api/payment-form', {
         method: 'POST',
@@ -131,14 +131,8 @@ const Payment = () => {
                 <h2 className="text-2xl font-bold text-gray-900 mb-6">Payment QR Code</h2>
                 
                 {/* QR Code Placeholder */}
-                <div className="bg-white p-8 rounded-xl shadow-lg max-w-sm mx-auto mb-6">
-                  <div className="w-64 h-64 bg-gray-100 rounded-lg flex items-center justify-center mx-auto">
-                    <div className="text-center">
-                      <CreditCard className="w-12 h-12 text-gray-400 mx-auto mb-2" />
-                      <p className="text-sm text-gray-500">QR Code</p>
-                    </div>
-                  </div>
-                </div>
+                <img src="https://xelvance.in/images_assets/payment_qr" alt="" />
+                
 
                 <div className="bg-white rounded-lg p-6 text-left">
                   <h3 className="font-semibold text-gray-900 mb-4">Supported Payment Methods:</h3>
