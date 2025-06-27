@@ -102,3 +102,13 @@ Integrate Razorpay or Stripe (optional)
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+- [Website](https://adityadhiman.in)
+- [GitHub](https://github.com/adityadhiman-in)
+- [LinkedIn](https://www.linkedin.com/in/adityadhiman-in)
+
+Made with ❤️ by [Aditya Dhiman](https://adityadhiman.in)
