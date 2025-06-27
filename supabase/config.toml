@@ -1,0 +1,8 @@
+
+project_id = "fbggenpmassgvvhnehgm"
+
+[functions.contact-form]
+verify_jwt = false
+
+[functions.payment-form]
+verify_jwt = false
