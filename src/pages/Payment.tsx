@@ -243,14 +243,14 @@ const Payment = () => {
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent disabled:opacity-50"
                     >
                       <option value="">Select amount</option>
-                      <option value="2999">₹2,999 - Internship Program</option>
-                      <option value="9999">₹9,999 - Digital Marketing</option>
-                      <option value="15999">₹15,999 - Web Development</option>
+                      <option value="2999">₹599 - Internship Program</option>
+                      <option value="9999">₹15,999 - Digital Marketing</option>
+                      <option value="15999">₹19,999 - Web Development</option>
                       <option value="25999">₹25,999 - Influencer Marketing</option>
                       <option value="49999">₹49,999 - App Development</option>
-                      <option value="149">₹149 - Amazon Review</option>
-                      <option value="129">₹129 - Flipkart Review</option>
-                      <option value="249">₹249 - Review Bundle</option>
+                      <option value="149">₹89 - Amazon Review</option>
+                      <option value="129">₹79 - Flipkart Review</option>
+                      <option value="249">₹149 - Review Bundle</option>
                       <option value="custom">Custom Amount</option>
                     </select>
                   </div>
